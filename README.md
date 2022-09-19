@@ -1,1 +1,1 @@
-# .github
+This organization and subsequent projects are all an effort to organize my personal projects and learnings. Mainly in Rust and Golang but other things might make their way here as well as I learn more and upskill myself.
